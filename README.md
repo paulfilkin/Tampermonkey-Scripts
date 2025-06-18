@@ -13,7 +13,7 @@ A minimal set of helpers for inspecting form handling, potential injection vecto
 Scripts that allow you to inspect and clear cookies, local storage, session storage, and other relevant data directly from the browser interface.
 
 ### Ultimate Element Inspector – Bible Edition
-A heavily customised element inspection toolkit tailored for structured or nested content analysis – originally tested on Bible-oriented sites but easily adaptable for any content-heavy web pages.
+A heavily customised element inspection toolkit tailored for structured or nested content analysis – called the "Bible Edition" because I wanted to know chapter and verse about the elements I was investigating since some are often so outside of any sane accessibility requirements they are really hard to find.
 
 ---
 
